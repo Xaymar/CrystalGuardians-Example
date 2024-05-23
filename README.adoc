@@ -1,0 +1,2 @@
+== Example mod for Crystal Guardians
+This is the repository containing what I know on how to make a mod for the game.
